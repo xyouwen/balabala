@@ -3,8 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+atme
+
 # C extensions
 *.so
+
 
 # Distribution / packaging
 .Python
