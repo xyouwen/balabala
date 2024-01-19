@@ -50,7 +50,8 @@
 - 与其水货，不如干货。
 - 与其转载，不如原创。
 - 与其照搬照抄的转载，不如标明出处的转载。
-- 与其 bb-english-lilei、bb-english-hanmeimei，不如 LiLei 和 HaiMeiMei 一起 balabala-to-English 。
+- 与其 bb-to-English-lilei、bb-to-English-hanmeimei，不如 lilei 和 hanmeimei 一起 balabala-to-English 。
+- 与其有与其，不如没有与其。
 
 # balabala-to-study
 
@@ -72,7 +73,7 @@
 
 又名 `苦口婆心劝你学大模型`， 大模型时代的三类玩家，普通人的机会在于 2 和 3 ：
 
-- 1.谷歌、OpenA、百度这样的玩家，训练像 ChatGPT、文心一言这样的基座大模型。
+- 1.OpenAI、谷歌、百度这样的玩家，训练像 ChatGPT、Gemini、文心一言这样的基座大模型。
 - 2.在开源基座大模型基础上，学会二次训练，训练专属自己的垂直领域大模型，比如客服机器人。
 - 3.在基座大模型或者领域大模型上，寻找用户需求开发一些应用 APP，可以理解为现在的手机 APP。
 
