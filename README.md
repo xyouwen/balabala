@@ -5,25 +5,52 @@
 - 在生活中我是一个严肃认真、笨直无趣的人，有时候我会讨厌自己。所以一直励志要做个 kinder， 做个严肃、活泼、认真、幽默、善良、有趣的人。
 - 学历是普通本科，一路摸爬滚打，曾任某知名研究院 QA 负责人。学历是个硬伤，曾因某次 VC 融资公司在线收集学历当场社死，羡慕那些 985、211 的本硕宝子们。
 - 非计算机专业，但爱好编程，Python 爱好者。自学过 Java，后因 Python 之禅转学 Python ，自从独立完成第一个自动化测试框架后开始爱上编程，有点代码洁癖。
-- 吃过一波互联网红利，工资也跟着水涨船高，后因公司整体解散待业 3 个月。正在努力寻找下一个十年方向，现在一心想要拥抱 AI，默默念着无论如何也要蹭上这一波。
+- 吃过一波互联网红利，工资也跟着水涨船高，后因公司整体解散待业 3 个月。正在努力寻找下一个十年方向，现在一心想要拥抱 AI，默念着无论如何也要蹭上这一波。
 
 # balabala 简介
 
 `balabala` 是 `github` 上的一个 `苦口婆心的劝说` 项目，中文名叫 `吧啦吧啦`。
 
-项目地址：[balabala](https://github.com/xyouwen/balabala) 
+项目地址：[balabala](https://github.com/xyouwen/balabala)
 
 ## 灵感来源
 
 - `balabala` 来源于某个黑夜的灵感，辗转反侧的思考如何抓住这波 AI 红利。
 - 在此之前，我刚买下一个 `AI 大模型` 的体系课程，让我突然意识到：哦... 原来 `AI 培训` 也是一个方向。
-- 我自己一个菜鸟，又不懂 AI ，怎么从事 AI 培训呢？ 对了，我可以亲自体验，然后推广有价值的 AI 课程，`赚点辛苦钱`。
+- 我自己一个菜鸟，又不懂 AI ，怎么办呢？ 对了，我可以把学习过程晒出来，吸引同道中人，然后推广大神的 AI 课程。
+
+## 要做什么
+
+- 最初的目的，是为了不让买课的钱打水漂，逼自己认真学一把，边学习边记录边输出，踏踏实实把干货啃完，回头看时证明自己学过。也就是 `劝自己学`。
+- 通过持续地晒学习日志，吸引同道中彷徨犹豫的人们，让他们看到说：哟...这个菜鸟居然都能学会，那我也可以。起到以身作则的劝学效果，简称 `以身劝学`。
+- 当菜鸟趟完了所有的坑，获得更多的关注之后，就成了流量小白，没错，流量的尽头就是带货，小白可以获得资格开始搬运推广大神的作品了，俗称 `赚点辛苦钱`。
 
 ## 能做什么
 
+以我为例：
+
 - 我曾经一度喜欢 `劝学`，没啥效果还遭人嫌弃，现在虽然知道了 `劝人不过三句话`，但还是改不了这个毛病 `balabala-to-study`。
-- `Python` 是 AI 领域最常使用的语言，正好我它的死忠粉，所以可以 `balabala-to-python`。
+- `Python` 是 AI 领域最常使用的语言，正好我是它的死忠粉，所以可以 `balabala-to-python`。
 - 刚花了好几千买了大模型课程，我可以边学习边输出，所以可以 `balabala-to-large-model`。
+
+期待和您一起：
+
+- 比如您来发起 `balabala-to-English` 。
+- 比如您来发起 `balabala-to-xiao-long-xia` 。
+- ...
+
+## 愿景是啥
+
+- `balabala` 是一个社区，有大神、有小白、有菜鸟...
+- 希望社区中的人们都能挣到钱，过上幸福的生活...
+- 学以致用...
+
+## 有个约定
+
+- 与其水货，不如干货。
+- 与其转载，不如原创。
+- 与其照搬照抄的转载，不如标明出处的转载。
+- 与其 bb-english-lilei、bb-english-hanmeimei，不如 LiLei 和 HaiMeiMei 一起 balabala-to-English 。
 
 # balabala-to-study
 
@@ -56,6 +83,8 @@
 原文：
 
 ```
+The Zen of Python, by Tim Peters
+
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
@@ -87,6 +116,8 @@ Namespaces are one honking great idea -- let's do more of those!
 - https://blog.csdn.net/gzlaiyonghao?type=blog
 
 ```
+Python之禅，由Tim Peters编写。
+
 优美胜于丑陋。
 明了胜于晦涩。
 简洁胜于复杂。
