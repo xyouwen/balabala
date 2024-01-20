@@ -11,7 +11,7 @@
 
 `balabala` 是 `github` 上的一个 `苦口婆心的劝说` 项目，中文名叫 `吧啦吧啦`。
 
-项目地址：[balabala](https://github.com/xyouwen/balabala)
+项目地址：[balabala-at-github](https://github.com/xyouwen/balabala) 、[balabala-at-gitee](https://gitee.com/xyouwen/balabala) 。
 
 ## 灵感来源
 
