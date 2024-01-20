@@ -66,7 +66,7 @@
 
 欢迎关注我的 balabala 星球，期待你的点赞加关注：
 
-![](https://img-blog.csdnimg.cn/direct/aa05fe5d79fa410bbafa28fa4b499678.jpeg)
+![](https://gitee.com/xyouwen/balabala/blob/main/balabala.jpg)
 
 # 自荐：Python 装饰器从入门到进阶
 
