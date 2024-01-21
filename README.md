@@ -5,28 +5,28 @@
 - 在生活中我是一个严肃认真、笨直无趣的人，有时候我会讨厌自己。所以一直励志要做个 kinder， 做个严肃、活泼、认真、幽默、善良、正直的人。
 - 学历是普通本科，一路摸爬滚打，曾任某知名研究院 QA 负责人。学历是个硬伤，曾因某次 VC 公司在线收集学历当场社死，羡慕那些 985、211 的本硕宝子们。
 - 非计算机专业，但爱好编程，Python 爱好者。自学过 Java，后因 Python 之禅转学 Python ，自从独立完成第一个自动化测试工具后开始爱上编程，有点代码洁癖。
-- 吃过一波互联网红利，工资也跟着水涨船高，后因公司整体解散待业 3 个月。正在努力寻找下一个十年方向，现在一心想要拥抱 AI，无论如何也要蹭上这一波浪潮。
+- 吃过一波互联网红利，工资也跟着水涨船高，后因公司整体解散待业 3 个月。正在努力寻找下一个十年方向，现在一心想要拥抱 AI，默念无论如何也要蹭上这一波。
 
 # balabala 简介
 
-`balabala` 用于记录我的日常，中文名叫 `吧啦吧啦`。
+`balabala` 是一个记录我的工作、学习和生活日常的项目，中文名叫 `吧啦吧啦`。
 
 项目地址：[balabala-at-github](https://github.com/xyouwen/balabala) 、[balabala-at-gitee](https://gitee.com/xyouwen/balabala) 。
 
 ## 灵感来源
 
-- `balabala` 来源于某个黑夜的灵感，辗转反侧的思考如何搭乘 AI 这艘巨轮。
+- `balabala` 来源于某个黑夜的灵感，辗转反侧的思考如何抓住 AI 红利。
 - 在此之前，我刚买下一个 `AI 大模型` 的系统课程，让我突然意识到：哦... 原来 `AI 培训` 也是一个方向。
 - 我自己一个菜鸟，又不懂 AI ，怎么办呢？ 对了，我可以把学习过程晒出来，吸引同道中人关注，然后推广大神的 AI 作品，`赚点辛苦钱`，这不就抓住了吗？
 - 对，就是一个字：晒、晒、晒
 
-## 能做什么
+## 能干什么
 
 - 可以 `balabala-large-model`，争取弄个明白。
 - 可以 `balabala-python`，正好我是它的死忠粉。
 - 可以 `balabala-autotest`，这是我觉得可以拿得出手的东西。
 - 可以 `balabala-performancetest`，再精进一下也可以拿得出手。
-- 可以 `balabala-english`, 这是我一直好学，要学，但始终没学好的东西。
+- 可以 `balabala-english`，这是我一直好学，要学，但始终没学好的东西。
 - 可以 `balabala-to-happy`，生活中总会有一些突然开悟的事情。
 - 可以 `balabala-to-study`， 劝人不过三句话，但还是改不了这个毛病。
 
@@ -64,13 +64,13 @@
 
 # 我的星球
 
-欢迎关注我的 balabala 星球，期待你的点赞加关注：
+欢迎关注我的 `balabala` 星球，期待你的点赞加关注：
 
 ![](https://gitee.com/xyouwen/balabala/blob/main/balabala.jpg)
 
 # 自荐：Python 装饰器从入门到进阶
 
-这是我快要 balabala 完的一个系列《Python 装饰器从入门到进阶》：
+这是我快要 balabala 完的一个系列《 Python 装饰器从入门到进阶》：
 
 ## Python 装饰器基础
 
@@ -95,12 +95,12 @@
 - [使用 schema 库，自定义较复杂的校验方法](https://blog.csdn.net/m0_46967801/article/details/135525639)
 - [将 pyparamvalidate 项目，发布至 pypi](https://blog.csdn.net/m0_46967801/article/details/135629095)
 
-## 附：相关前置知识点
+## 相关前置知识点
 
 - [Python 语法糖](https://kindtester.blog.csdn.net/article/details/135607509)
 - [AOP 面向切面编程](https://blog.csdn.net/m0_46967801/article/details/135626360)
 - [Python 元类 metaclass 详解](https://kindtester.blog.csdn.net/article/details/135605795)
-- [Python 闭包、作用域  ... 待更新]()
+- [Python 闭包、作用域 ... 待更新]()
 
 # 附：Zen of Python
 
