@@ -66,7 +66,7 @@
 
 欢迎关注我的 `balabala` 星球，期待你的点赞加关注：
 
-![](https://github.com/xyouwen/balabala/blob/main/balabala.jpg){:height="50%" width="50%"}
+<img src="https://github.com/xyouwen/balabala/blob/main/balabala.jpg" width="50%" height="50%"/>
 
 # 自荐：Python 装饰器从入门到进阶
 
