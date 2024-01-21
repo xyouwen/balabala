@@ -66,6 +66,8 @@
 
 欢迎关注我的 `balabala` 星球，期待你的点赞加关注：
 
+[点我加入星球](https://t.zsxq.com/16gNjCtDb)
+
 <img src="https://github.com/xyouwen/balabala/blob/main/balabala.jpg" width="50%" height="50%"/>
 
 # 自荐：Python 装饰器从入门到进阶
